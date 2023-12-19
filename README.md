@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi there, I'm Uday Devsani! 👋
 
-<!--
-**UdayDevsani/UdayDevsani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 I'm a Full Stack Developer currently working at NeoSoft Services.
+- 🌍 Located in Solapur, Maharashtra, India.
+- 🎓 I'm a self-taught developer and designer with a Bachelor's degree in Computer Science and Technology.
 
-Here are some ideas to get you started:
+## Current Job
+- 👨‍💻 Full Stack Developer at NeoSoft Services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- 📚 Self-Taught Developer and Designer
+- 🎓 Bachelor's in Computer Science and Technology
+
+## Fields of Interest
+- 💻 Web Development
+- 🤖 Machine Learning
+- 🎨 UI/UX
+
+## Technical Background
+- 🚀 Full Stack Developer
+
+## Currently Learning
+- 🐳 Docker
+- ☕ Java
+- 🅰️ Angular
+
+## 2024 Goals
+- 🚀 Create 25+ Projects
+- 📚 Learn at least 5-10 new Technologies
+
+## Hobbies
+- 🎮 Gaming
+- 🎬 Cinema
+- 🛹 Skateboarding
+- 😄 Comedy
